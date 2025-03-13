@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="vino1">#FF330000</color>
+    <color name="vino2">#FF4d0a0a</color>
+    <color name="vino3">#FF782424</color>
+    <color name="vino4">#FFa24c4c</color>
+    <color name="vino5">#FFcd8282</color>
+    <color name="oro1">#ffd9b504</color>
+    <color name="oro2">#ffd0ae04</color>
+    <color name="oro3">#ffae9203</color>
+    <color name="crema1">#fff7f7f7</color>
+    <color name="crema2">#fffff9e2</color>
+    <color name="rosa">#aacd8282</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
